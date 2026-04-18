@@ -1,0 +1,14 @@
+df.sum()
+df.mean()
+df.max()
+df.min()
+#中位数
+df.median()
+#众数
+df.mode()
+#方差
+df.var()
+#标准差
+df.std()
+#分位数
+df.quantile()
